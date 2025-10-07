@@ -1,0 +1,60 @@
+h1{font-family: Tempus Sans ITC, arial;
+text-align: center;
+font-size:25px;
+font-weight:bold;
+color: navy;
+letter-spacing: 3px;
+border: 2px solid black;
+line-height: 48px;
+background-color: pink;}
+
+ul {display: flex;
+ justify-content: center;
+  gap:50px;}
+a {color: navy;
+font-family: Tempus Sans ITC, arial;
+  font-size: 18px;
+  width:10%;
+  height:10%;
+  letter-spacing: 3px;
+  text-decoration:underline;
+  font-weight: bold;}
+
+table{
+  border:5px solid black;
+  color: white;
+  background-color: navy;
+  border-collapse: collapse;
+height: 180px;
+  width: 30%;
+text-align: center;
+margin: 30px;
+margin-left: auto;
+margin-right: auto;}
+
+td{font-weight: bold;
+font-family: Tempus Sans ITC, arial;
+font-size: 20px}
+
+th{font weight: bold;
+  font-size: 20px;
+color:pink;}
+
+h2{font-family: Tempus Sans ITC, arial;
+text-align: center;
+font-size:25px;
+font-weight:bold;
+color: navy;
+letter-spacing: 3px;
+border: 2px solid black;
+line-height: 48px;
+background-color: pink;}
+
+#media{
+  box-sizzing:
+  max-width: 350px;
+  margin: 350px auto;
+  padding: 20px;
+  height: 30px;
+  border: 20px solid black;
+}
