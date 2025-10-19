@@ -1,0 +1,58 @@
+{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Segoe UI, Arial;
+}
+
+body{
+  background:white;
+  color:black;
+  padding-top:65px;
+  text-align:center;
+}
+
+nav{
+  position:fixed;
+  top:0;
+  background:yellow;
+  width:100%;
+}
+
+nav a{
+  text-decoration:none;
+    color:red;
+  text-weight:bold;
+}
+
+nav ul{
+  list-style:none;
+  display:flex;
+  justify-content:center;
+  gap:20px;
+}
+
+.table{
+  margin:18px,auto;
+  border:4px grey;
+  border-collapse:collapse;
+  width:100%;
+}
+
+.table th{
+  background:yellow;
+  color:red;
+}
+
+.table th,
+.table td{border:1px solid black}
+
+#Services{
+  margin-top:60px;
+}
+
+#bookappoinment{
+  margin-top:60px;
+}
+
+#logo{width:60px;}
